@@ -11,9 +11,12 @@ ReSpeaker docs
 https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT/
 https://pinout.xyz/pinout/respeaker_2_mics_phat
 
-
 Sound card test
 > arecord -f cd -Dhw:1 | aplay -Dhw:1
+
+Snowboy 
+Yoco's model https://snowboy.kitt.ai/hotword/50459
+
 
 Google Assistant SDK
 https://developers.google.com/assistant/sdk/guides/service/python/embed/run-sample
